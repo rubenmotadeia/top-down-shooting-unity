@@ -25,7 +25,7 @@ This game has several small improvements beyond the tutorial as I tried to make 
 ---
 
 # LINK TO CHECK THE MOVEMENT
-https://rubenftgd.github.io/top-down-shooting-unity
+https://rubenmotadeia.github.io/top-down-shooting-unity
 
 # CONTROLS
 **Keys** - Move UP/Down and Left/Right
